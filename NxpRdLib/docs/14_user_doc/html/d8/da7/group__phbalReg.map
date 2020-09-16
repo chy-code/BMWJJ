@@ -1,0 +1,9 @@
+<map id="Bus Abstraction Layer" name="Bus Abstraction Layer">
+<area shape="rect" id="node1" href="$d6/d50/group__phbalReg__KinetisI2C.html" title="Component abstracting the functionality of Kinetis KSDK 2.0 I2C interface. " alt="" coords="222,5,381,32"/>
+<area shape="rect" id="node2" href="$d2/d74/group__phbalReg__LinuxUserSpi.html" title="Component without functionality to ease implementation of additional busses. " alt="" coords="209,56,394,83"/>
+<area shape="rect" id="node3" href="$d2/dad/group__phbalReg__LpcOpenI2c.html" title="Component abstracting the functionality of LPC Open stack I2C interface. " alt="" coords="217,107,386,133"/>
+<area shape="rect" id="node5" href="$d5/dd1/group__phbalReg__LinuxKernelSpi.html" title="Component without functionality to ease implementation of additional busses. " alt="" coords="204,157,399,184"/>
+<area shape="rect" id="node6" href="$da/da4/group__phbalReg__LinuxUserI2C.html" title="Component without functionality to ease implementation of additional busses. " alt="" coords="209,208,394,235"/>
+<area shape="rect" id="node7" href="$dc/d4d/group__phbalReg__KinetisSpi.html" title="Component abstracting the functionality of Kinetis KSDK 2.0 SPI interface. " alt="" coords="222,259,381,285"/>
+<area shape="rect" id="node8" href="$d5/d6d/group__phbalReg__LpcOpenSpi.html" title="Component abstracting the functionality of LPC Open stack SPI interface. " alt="" coords="216,309,387,336"/>
+</map>

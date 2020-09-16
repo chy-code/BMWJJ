@@ -1,0 +1,7 @@
+<map id="component : Rc523" name="component : Rc523">
+<area shape="rect" id="node1" href="$d0/da5/group__phhalHw__Rc523__Reg.html" title="Register definitions. " alt="" coords="383,5,517,32"/>
+<area shape="rect" id="node4" href="$d4/d22/group__phhalHw__Rc523__Cmd.html" title="Supported ReaderIC commands. " alt="" coords="406,56,494,83"/>
+<area shape="rect" id="node5" href="$da/dd5/group__phhalHw__Rc523__Config.html" title="Custom Configuration of hardware related settings. " alt="" coords="401,107,499,133"/>
+<area shape="rect" id="node6" href="$d0/dea/group__phhalHw__Rc523__Int.html" title="Internal definitions. " alt="" coords="418,157,482,184"/>
+<area shape="rect" id="node3" href="$d6/d78/group__phhalHw.html" title="These are the components which are used to abstract the functionality of the physical reader device t..." alt="" coords="5,74,152,115"/>
+</map>
